@@ -1,0 +1,12 @@
+{
+		"copyFiles": [
+			"SupersonicPlugin.java"
+		],
+		"libraries": [
+		],
+		"jars": [
+			"ssa-sdk-5.9.jar"
+		],
+		"injectionXML": "manifest.xml",
+		"injectionXSL": "manifest.xsl"
+}
